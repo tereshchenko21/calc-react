@@ -1,0 +1,9 @@
+.numberButton{
+    width: 60px;
+    color: #666;
+    background-color: rgb(209, 209, 209);
+    font-size: 50px;
+    &:active{
+        background-color: rgb(201, 201, 201);;
+    }
+}
